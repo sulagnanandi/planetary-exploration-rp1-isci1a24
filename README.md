@@ -1,0 +1,1 @@
+Research Project #1 in the Honours Integrated Science program at McMaster University. The topic is Planetary Exploration (specifically an unpiloted mission to Mars) to search for signs of life in habitable zones. RP1-Report.pdf contains the main write-up. The other files are presentation slides and Python/Jupyter Notebook files for data analysis work.
